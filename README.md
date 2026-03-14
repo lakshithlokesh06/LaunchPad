@@ -190,15 +190,15 @@ vercel
 5. Visit "My Applications" dashboard to track status
 
 ### Company Workflow
-1. Sign up as company
-2. Go to "Post New Job" in dashboard
+1. Sign up as company.
+2. Go to "Post New Job" in dashboard.
 3. Fill in job details and click "Post Job"
-4. View applications in "Applications" section
+4. View applications in "Applications" section.
 5. Update application status (Reviewing, Accepted, Rejected, etc.)
 
 ## Performance Optimizations
 
-- Server-side rendering for landing page
+- Server-side rendering for landing page.
 - Client-side caching with SWR
 - Optimized Supabase queries with indexes
 - Responsive images
